@@ -54,9 +54,8 @@ Ensuite vous pouvez allez sur les pages correspondante:
 
 ### Lancer le projet personnel
 Aller dans le dossier vue-docker
-- Faite un ``` npm i ```
-- Ensuite lancer le docker-compose
 
+- Ensuite lancer le docker-compose
 ```sh
 docker-compose up -d
 ```
@@ -64,3 +63,5 @@ puis allez sur le
 ```sh
 localhost:8080
 ```
+vous pouvez tester de modifier le projet en hard reload
+
