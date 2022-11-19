@@ -51,6 +51,7 @@ Ensuite vous pouvez allez sur les pages correspondante:
 - phpmyadmin
 - gitea
 - phpladpadmin
+- bookstack
 
 ### Lancer le projet personnel
 Aller dans le dossier vue-docker
