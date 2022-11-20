@@ -54,7 +54,7 @@ Ensuite vous pouvez allez sur les pages correspondante:
 - bookstack
 
 ### Lancer le projet personnel
-Aller dans le dossier vue-docker
+Aller dans le dossier vue-projet
 
 - Ensuite lancer le docker-compose
 ```sh
